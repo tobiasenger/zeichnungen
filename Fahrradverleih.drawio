@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T00:16:52.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="yeo3uHhrkNgXW2ISOvrM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T00:24:26.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fo_Ofw1IcwKeHUuJ-LvT" version="22.0.4" type="github">
   <diagram name="Seite-1" id="bQOZxYMRXsdo0ndvrcB2">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-1" value="Akku" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-2" value="Monteure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-3" value="Keycards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-4" value="Mountainbikes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-5" value="Cityräder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-6" value="E-Bikes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-7" value="Fahrräder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-8" value="Kunden" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-9" value="Mitarbeiter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8qDM-tfKdcT89JeCW2L-10" value="Personen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
