@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T10:51:31.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="0O_YfuSv_9aJNwnARY30" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T11:38:14.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AI-7Md8Qkam8o90dtCr-" version="22.1.4" type="github">
   <diagram name="Seite-1" id="2JOwtT9A2yt5OOmGQS--">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fI4TgQmks6pxzs4s7WWF-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="280" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="fI4TgQmks6pxzs4s7WWF-11" value="Einloggen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fI4TgQmks6pxzs4s7WWF-3">
+          <mxGeometry x="50" y="50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fI4TgQmks6pxzs4s7WWF-10" value="Registrierung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fI4TgQmks6pxzs4s7WWF-3">
+          <mxGeometry x="45" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fI4TgQmks6pxzs4s7WWF-13" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fI4TgQmks6pxzs4s7WWF-3">
+          <mxGeometry y="334" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fI4TgQmks6pxzs4s7WWF-12" value="Datenüberprüfung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="fI4TgQmks6pxzs4s7WWF-3">
+          <mxGeometry x="140" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fI4TgQmks6pxzs4s7WWF-5" value="Unternehmer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fI4TgQmks6pxzs4s7WWF-6" value="Benutzer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fI4TgQmks6pxzs4s7WWF-8" value="Studierender" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
