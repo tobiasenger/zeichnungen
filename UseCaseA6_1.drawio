@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T22:19:30.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="u9c_7NJA2LZTyWiT2avI" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T22:19:53.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="U8mZ2BxEVEz3Fv3CAOWk" version="22.1.5" type="github">
   <diagram name="Seite-1" id="0DVrrCH61ZPT9TPxcILy">
     <mxGraphModel dx="722" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="xju300cJYV8iOVyrhgCJ-1" value="Unternehmer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="xju300cJYV8iOVyrhgCJ-3" vertex="1">
           <mxGeometry x="-80" y="39" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xju300cJYV8iOVyrhgCJ-4" value="Registrieren" style="ellipse;whiteSpace=wrap;html=1;" parent="xju300cJYV8iOVyrhgCJ-3" vertex="1">
+        <mxCell id="xju300cJYV8iOVyrhgCJ-4" value="Als Unternehmer&lt;br&gt;Registrieren" style="ellipse;whiteSpace=wrap;html=1;" parent="xju300cJYV8iOVyrhgCJ-3" vertex="1">
           <mxGeometry x="40" y="34" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xju300cJYV8iOVyrhgCJ-5" value="Einloggen" style="ellipse;whiteSpace=wrap;html=1;" parent="xju300cJYV8iOVyrhgCJ-3" vertex="1">
