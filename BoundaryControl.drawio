@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T16:56:59.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X992OJuFxZdLwAHHwIPJ" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T17:00:01.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g0cljBQcgnfPKAJ-8zLR" version="22.1.7" type="github">
   <diagram name="Seite-1" id="MbRMPzawZWTjacwESfoU">
     <mxGraphModel dx="794" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,8 +12,16 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-12" value="&amp;lt;boundary&amp;gt;&lt;br&gt;EingabeProjektausschreibung" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="280" height="50" as="geometry" />
+        <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSHwLZ9u9-6Pu8mQxcXH-12" target="FSHwLZ9u9-6Pu8mQxcXH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-33" value="zeigt an" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FSHwLZ9u9-6Pu8mQxcXH-32">
+          <mxGeometry x="0.3173" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-12" value="&amp;lt;boundary&amp;gt;&lt;br&gt;EingabeseiteProjektausschreibung" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSHwLZ9u9-6Pu8mQxcXH-13" target="FSHwLZ9u9-6Pu8mQxcXH-12">
           <mxGeometry relative="1" as="geometry" />
@@ -66,6 +74,12 @@
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-29" value="&amp;lt;dto&amp;gt;&lt;br&gt;Bestätigung" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="FSHwLZ9u9-6Pu8mQxcXH-35" target="FSHwLZ9u9-6Pu8mQxcXH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-35" value="Unternehmer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
