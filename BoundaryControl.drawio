@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T20:09:46.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bqM9U5q33osj8F_K8BJm" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T20:29:03.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="viNIcEoiCGw6E2thydzk" version="22.1.8" type="github">
   <diagram name="Seite-1" id="MbRMPzawZWTjacwESfoU">
     <mxGraphModel dx="1434" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,15 +17,7 @@
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-33" value="zeigt an" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FSHwLZ9u9-6Pu8mQxcXH-32" vertex="1" connectable="0">
           <mxGeometry x="0.3173" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FSHwLZ9u9-6Pu8mQxcXH-12" target="FSHwLZ9u9-6Pu8mQxcXH-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="10" />
-              <mxPoint x="870" y="10" />
-            </Array>
+            <mxPoint x="-2" y="56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-12" value="&amp;lt;boundary&amp;gt;&lt;br&gt;EingabeseiteProjektausschreibung" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -70,7 +62,7 @@
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-31" value="erzeugt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FSHwLZ9u9-6Pu8mQxcXH-30" vertex="1" connectable="0">
           <mxGeometry x="0.225" y="2" relative="1" as="geometry">
-            <mxPoint x="68" y="-123" as="offset" />
+            <mxPoint x="41" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-13" value="&amp;lt;control&amp;gt;&lt;br&gt;ProjektausschreibungAufgabe" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -88,19 +80,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-25" value="&amp;lt;entity&amp;gt;&lt;br&gt;Projektausschreibung" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="540" y="600" width="160" height="40" as="geometry" />
+          <mxGeometry x="540" y="520" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-29" value="&amp;lt;dto&amp;gt;&lt;br&gt;Bestätigung" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="440" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="FSHwLZ9u9-6Pu8mQxcXH-35" target="FSHwLZ9u9-6Pu8mQxcXH-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-35" value="Unternehmer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="30" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-38" value="SubBoundaries&lt;br&gt;möglich aber nicht für Modell" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="720" y="40" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
