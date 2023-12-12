@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T21:35:27.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yDF-T1Qeldmm4ipJvcPX" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T21:38:17.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="j0E30U39gXF9WKaHLT-0" version="22.1.8" type="github">
   <diagram name="Seite-1" id="MbRMPzawZWTjacwESfoU">
     <mxGraphModel dx="1434" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -118,6 +118,16 @@
             <mxPoint x="52" y="-58" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hbndjlE8r5f0TdrriUOl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="FSHwLZ9u9-6Pu8mQxcXH-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hbndjlE8r5f0TdrriUOl-50" value="überführt_Angaben_&lt;br&gt;aus_Projektausschr." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hbndjlE8r5f0TdrriUOl-48">
+          <mxGeometry x="0.5634" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-13" value="&amp;lt;control&amp;gt;&lt;br&gt;Projektausschreibung_Aufgabe" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="430" y="390" width="200" height="40" as="geometry" />
         </mxCell>
@@ -219,6 +229,9 @@
         </mxCell>
         <mxCell id="hbndjlE8r5f0TdrriUOl-42" value="&amp;lt;entity&amp;gt;&lt;br&gt;Freelancer" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="650" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hbndjlE8r5f0TdrriUOl-49" value="&amp;lt;boundary&amp;gt;&lt;br&gt;ext. Informationssystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
