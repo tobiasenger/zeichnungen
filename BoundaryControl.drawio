@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T21:10:12.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yM6Qqgq2GF8d3cWMU3TM" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T21:11:36.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5K-tUM95r4q2DDbWRc51" version="22.1.8" type="github">
   <diagram name="Seite-1" id="MbRMPzawZWTjacwESfoU">
     <mxGraphModel dx="1434" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,6 +80,14 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hbndjlE8r5f0TdrriUOl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSHwLZ9u9-6Pu8mQxcXH-13" target="hbndjlE8r5f0TdrriUOl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hbndjlE8r5f0TdrriUOl-20" value="liest_Bankdaten" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hbndjlE8r5f0TdrriUOl-19">
+          <mxGeometry x="-0.3467" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-13" value="&amp;lt;control&amp;gt;&lt;br&gt;ProjektausschreibungAufgabe" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="430" y="390" width="200" height="40" as="geometry" />
         </mxCell>
@@ -108,8 +116,8 @@
         <mxCell id="FSHwLZ9u9-6Pu8mQxcXH-35" value="Unternehmer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hbndjlE8r5f0TdrriUOl-6" value="&amp;lt;entity&amp;gt;&lt;br&gt;UnternehmerDaten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="420" width="160" height="40" as="geometry" />
+        <mxCell id="hbndjlE8r5f0TdrriUOl-6" value="&amp;lt;entity&amp;gt;&lt;br&gt;Unternehmer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hbndjlE8r5f0TdrriUOl-7" value="&amp;lt;entity&amp;gt;&lt;br&gt;UnternehmerDaten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="340" width="160" height="40" as="geometry" />
@@ -118,7 +126,7 @@
           <mxGeometry x="680" y="560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hbndjlE8r5f0TdrriUOl-14" value="&amp;lt;control&amp;gt;&lt;br&gt;Durchführung_Bankeinzug" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="200" width="160" height="40" as="geometry" />
+          <mxGeometry x="670" y="390" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
