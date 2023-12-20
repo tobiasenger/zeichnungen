@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T01:53:04.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="HarLlzLmfszj7iGwRKrt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T02:04:54.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nmaRbNyiEM90i7GDCau_" version="22.1.11" type="github">
   <diagram name="Seite-1" id="xe0tUU8hpCdlSDJ9yl9q">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-4" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="450" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="3nS2Yido4z4tnvFSfjfZ-1" target="3nS2Yido4z4tnvFSfjfZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-8" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3nS2Yido4z4tnvFSfjfZ-7">
+          <mxGeometry x="-0.1546" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-1" value="Jobangebot suchen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3nS2Yido4z4tnvFSfjfZ-2" target="3nS2Yido4z4tnvFSfjfZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="135" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-3" value="Verwaltung von&lt;br&gt;Suchanfragen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-5" value="Coll@HBRS" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3nS2Yido4z4tnvFSfjfZ-9" value="Die User- / Technical Stories beeinflussen das Model nicht, da hier eher Use Case interne Anforderungen spezifiziert werden. Der Use Case Nr. 1 verdeutlicht jedoch erneut, dass der Use Case &quot;Verwaltung von Suchanfragen&quot; &lt;i&gt;während &lt;/i&gt;des Basis Use Case ausgeführt werden soll und somit inkludiert werden muss.&amp;nbsp;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="280" width="350" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
